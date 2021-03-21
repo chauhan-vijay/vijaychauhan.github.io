@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "290a9148635e18c9b68a",
+    "revision": "c2db6437ca6e4e59d911",
     "url": "/average-calculator/css/app.8012ab63.css"
   },
   {
-    "revision": "ec16fc4d399eafa4e8d4",
+    "revision": "82dd5a8af7bb27b1965f",
     "url": "/average-calculator/css/chunk-vendors.8ccb71a1.css"
   },
   {
@@ -28,20 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/average-calculator/img/primeicons.25954ab5.svg"
   },
   {
-    "revision": "06871b6af0e6a2fae483984a1a556ca3",
+    "revision": "b77bcb0d28d17f636b965ff1124477c7",
     "url": "/average-calculator/index.html"
   },
   {
-    "revision": "290a9148635e18c9b68a",
-    "url": "/average-calculator/js/app.0a11c668.js"
+    "revision": "c2db6437ca6e4e59d911",
+    "url": "/average-calculator/js/app.5cdb7f3f.js"
   },
   {
-    "revision": "190a10ff1224e65d7218",
-    "url": "/average-calculator/js/average-calculator.ff796356.js"
+    "revision": "0588bfcf2b89f0069821",
+    "url": "/average-calculator/js/average-calculator.6f4291b0.js"
   },
   {
-    "revision": "ec16fc4d399eafa4e8d4",
-    "url": "/average-calculator/js/chunk-vendors.8965b1df.js"
+    "revision": "82dd5a8af7bb27b1965f",
+    "url": "/average-calculator/js/chunk-vendors.536b7319.js"
   },
   {
     "revision": "503988fb748088b7b78b0b117f024831",
